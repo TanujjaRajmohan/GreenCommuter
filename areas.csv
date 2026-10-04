@@ -1,0 +1,22 @@
+area,distance_km,transit_stop,transit_type,stop_distance_km
+
+Morningside,2.5,Morningside Road,Bus,0.2
+Leith,5.5,Leith Walk,Tram,0.4
+Corstorphine,5.9,Corstorphine Station,Train,0.5
+Stockbridge,2.2,Raeburn Place,Bus,0.2
+Gorgie,2.5,Gorgie Road,Bus,0.1
+Portobello,7.6,Portobello High Street,Bus,0.3
+Newington,3.2,Clerk Street,Bus,0.2
+Musselburgh,12.0,Musselburgh Station,Train,0.9
+Dalkeith,13.4,Dalkeith Bus Station,Bus,0.6
+Livingston,26.9,Livingston South Station,Train,1.8
+Bathgate,35.7,Bathgate Station,Train,0.8
+Linlithgow,32.1,Linlithgow Station,Train,0.7
+Dunfermline,26.9,Dunfermline Station,Train,1.2
+Falkirk,47.2,Falkirk High Station,Train,1.5
+North Berwick,42.7,North Berwick Station,Train,0.6
+Haddington,35.0,Haddington Bus Station,Bus,0.5
+Penicuik,16.8,Penicuik Bus Station,Bus,0.4
+Kirkcaldy,24.5,Kirkcaldy Station,Train,1.1
+Peebles,42.3,Peebles High Street,Bus,0.9
+Tollcross,0.8,Home Street,Bus,0.1
